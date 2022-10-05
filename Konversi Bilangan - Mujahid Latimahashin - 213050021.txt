@@ -1,0 +1,463 @@
+KONVERSI
+
+konversikan bilangan basis hexadecimal di bawah ini menjadi bilangan oktal
+1) 234H = ... o
+	= 2*16^2 + 3*16^1 + 4*16^0
+	= 512    + 48	+ 4
+	= 564 
+
+	decimal ke oktal
+
+	= 1*512  = 564-512	= 52
+	= 6*8	 = 52-48	= 4
+	= 4*1	 = 4-4		=0
+
+	234H = 164 o
+
+2) 678H = ... o
+	= 6*16^2 + 7*16^1 + 8*16^0
+	= 1536   + 112	+ 8
+	= 1656
+
+	decimal ke oktal
+	
+	= 3*512 = 1656-1536	= 120
+	= 1*64  = 120-64 	= 56
+	= 7*8   = 56-56 	= 0
+	
+	678H =317 o
+
+3) 91BH = ... o
+	= 9*16^2 + 1*16^1 + 11*16^0
+	= 2304   + 16     + 11
+	= 2331
+
+	decimal ke oktal
+	
+	= 4*512 = 2331-2048 = 283
+	= 4*64  = 283-256   = 27
+	= 3*8	= 27-24     = 3
+	= 3*1	=3-3	    = 0
+	
+	91BH = 4433 o
+
+4) 2D5 = ... o
+	= 2*16^2 + 13*16^1 + 5*16^0
+	=  512  +   208   + 5
+	= 725
+
+	desimal ke oktal
+
+	= 1*512 = 725-512   = 213
+	= 3*64  = 213-192   = 21
+	= 2*8	= 21-16     = 5
+	= 5*1	= 5-5	    =0 
+
+	2D5 = 1325 o
+
+5) 322H =... o
+	= 3*16^2 + 2*16^1 + 2*16^0
+	= 768  +   32    + 2
+	= 802
+
+	desimal ke oktal
+
+	= 1*512 = 802-512   = 290
+	= 4*64  = 290-256   = 34
+	= 4*8	= 34-32     = 2
+	= 2*1   = 2-2	    = 0
+	
+	322H =1442 o
+
+6) 88AH =... o
+	= 8*16^2 + 8*16^1 + 10*16^0
+	= 2048   + 128    + 10
+	= 2186
+
+	desimal ke oktal
+
+	= 4*512 = 2186-2048 = 138
+	= 2*64  = 138-128   = 10
+	= 2*8	= 10-8      =2 
+	= 2*1   = 2-2    = 0
+	
+	88AH = 4222 o
+7) 72CH =... o
+	= 7*16^2 + 2*16^1 + 12*16^0
+	= 1792   + 32     + 12
+	= 1836
+
+	desimal ke oktal
+
+	= 3*512 = 1836-1536 = 300
+	= 4*64  = 300-256   = 44
+	= 5*8	= 44-40     = 4
+	= 4*1   =  4-4      = 0
+	
+	72C = 3454 o
+
+8) 5E4H =... o
+	= 5*16^2 + 14*16^1 + 4*16^0
+	= 1280   + 224     + 4
+	= 1508
+
+	desimal ke oktal
+
+	= 2*512  = 1508-1024   = 484
+	= 7*64   = 484-448 = 36
+	= 4*8    = 36-32     = 4
+	= 4*1    = 4-4 = 0
+	
+	5E4H = 2744 o
+
+KONVERSI
+
+konversikan bilangan basis oktal di bawah ini menjadi bilangan biner
+
+1) 234 o = ... b
+
+	oktal ke biner
+ 
+	= 2 = 010
+	= 3 = 011
+	= 4 = 100
+
+	234o = 10011100 b
+
+2) 574 o = ... b
+
+	oktal ke biner
+
+	= 5 = 101
+	= 7 = 111
+	= 4 = 100
+
+	574 o = 1011111000 b
+
+3) 712 o = ... b
+
+	oktal ke biner
+
+	= 7 = 111
+	= 1 = 001
+	= 2 = 010
+
+	712 o = 111001010  b
+
+4) 624 o = ... b
+
+	oktal ke biner
+
+	= 6 = 110
+	= 2 = 010
+	= 4 = 100
+
+	624 o = 110010100 b
+
+5) 322 o = ... b
+
+	oktal ke biner
+
+	= 3 = 011
+	= 2 = 010
+	= 2 = 010
+
+	322 o = 011010010 b
+
+6) 351 o = ... b
+
+	oktal ke biner
+
+	= 3 = 011
+	= 5 = 101
+	= 1 = 001
+
+	351 o = 011101001 b
+
+7) 771 o = ... b
+
+	oktal ke biner
+
+	= 7 = 111
+	= 7 = 111
+	= 1 = 001
+
+	771 o = 111111001 b
+
+8) 554 o = ... b
+
+	oktal ke biner
+
+	= 5 = 101
+	= 5 = 101
+	= 4 = 100
+
+	554 o = 101101100 b
+
+KONVERSI
+
+konversikan bilangan basis hexadecimal di bawah ini menjadi bilangan biner
+
+1) 234 H = ... b
+
+	hexadecimal ke biner
+
+	= 2 = 0010
+	= 3 = 0011
+	= 4 = 0100
+
+	234 H = 001000110100 b
+
+2) 678 H = ... b
+
+	hexadecimal ke biner
+
+	= 6 = 0110
+	= 7 = 0111
+	= 8 = 1000
+
+	678 H = 011001111000 b
+
+3) 91B H = ... b
+
+	hexadecimal ke biner
+
+	= 9 = 1001
+	= 1 = 0001
+	= B = 1011
+
+	91B H = 100100011011 b
+
+4) 2D5 H = ... b
+
+	hexadecimal ke biner
+
+	= 2 = 0010
+	= D = 1101
+	= 5 = 0101
+
+	2D5 H = 001011010101 b
+
+5) 322 H = ... b
+
+	hexadecimal ke biner
+
+	= 3 = 0011
+	= 2 = 0010
+	= 2 = 0010
+
+	322 H = 001100100010 b
+
+6) 88A H = ... b
+
+	hexadecimal ke biner
+
+	= 8 = 1000
+	= 8 = 1000
+	= A = 1010
+
+	88A H = 100010001010 b
+
+7) 72C H = ... b
+
+	hexadecimal ke biner
+
+	= 7 = 1001
+	= 2 = 0010
+	= C = 1100
+
+	72C H = 011100101100 b
+
+8) 5E4 H = ... b
+
+	hexadecimal ke biner
+
+	= 5 = 0101
+	= E = 1110
+	= 4 = 0100
+
+	5E4 H = 010111100100 b
+
+KONVERSI
+
+konversikan bilangan basis decimal di bawah ini menjadi bilangan hexadecimal
+
+1) 234 = ... H
+
+	= 234/16 = 14, sisa bagi 10
+	= 14/16  = 0, sisa 14
+
+	 234 = EA H
+
+2) 678 = ... H
+	
+	= 678/16 = 42, sisa bagi 6
+	= 42/16  = 2, sisa bagi 10
+	= 2/16   = 0, sisa bagi 2
+
+	678 = 2A6 H
+
+3) 917 = ... H
+
+	= 917/16 = 57, sisa bagi 5
+	= 57/16  = 3, sisa bagi 9
+	= 3/16   = 0, sisa bagi 3
+
+	917 = 395 H
+
+4) 285 = ... H
+
+	= 285/16 = 17, sisa bagi 13
+	= 17/16  = 1, sisa bagi 1 
+	= 1/16   = 0, sisa bagi 1 
+
+	 =  11D H
+5) 322 = ... H
+
+	= 322/16 = 20, sisa bagi 2 
+	= 20/16  = 1, sisa bagi 4
+	= 1/16   = 0, sisa bagi 1
+
+	322 = 142 H
+6) 888 = ... H
+
+	= 888/16 = 55, sisa bagi 8
+	= 55/16  = 3, sisa bagi 7
+	= 3/16   = 0, sisa bagi 3
+
+	888 = 378 H
+7) 727 = ... H
+
+	= 727/16 = 45, sisa bagi 7
+	= 45/16  = 2, sisa bagi 13
+	= 2/16   = 0, sisa bagi 2 
+
+	727 = 2D7 H
+8) 584 = ... H
+
+	= 584/16 = 36, sisa bagi 6
+	= 36/16  = 2, sisa bagi 4
+	= 2/16   = , sisa bagi 2
+
+	584 = 246 H
+
+KONVERSI
+
+konversikan bilangan basis decimal di bawah ini menjadi bilangan biner
+
+1) 234 = ... H
+
+	= 234/2  = 117, sisa bagi 0 
+	= 117/2  = 58, sisa bagi 1
+	= 58/2   = 29, sisa bagi 0
+	= 29/2   = 14, sisa bagi 1
+	= 14/2   = 7, sisa bagi 0
+	= 7/2	 = 3, sisa bagi 1
+	= 3/2 	 = 1, sisa bagi 1
+	= 1/2 	 = 0, sisa bagi 1
+
+	234 = 11101010 b
+
+2)678   = ... H
+
+	= 678/2 = 339, sisa bagi 0
+	= 339/2  = 169, sisa bagi 1
+	= 169/2   = 84, sisa bagi 1
+	= 84/2 = 42, sisa bagi 0
+	= 42/2  = 21, sisa bagi 0
+	= 21/2 = 10, sisa bagi 1
+	= 10/2  = 5, sisa bagi 0
+	= 5/2   = 2, sisa bagi 1
+	= 2/2 = 1, sisa bagi 0
+	= 1/2 = , sisa bagi 1
+
+	678 = 1010100110 b
+
+3) 917  = ... H
+
+	= 917/2 = 458, sisa bagi 1
+	= 458/2 = 229, sisa bagi 0
+	= 229/2 = 114, sisa bagi 1
+	= 114/2 = 57, sisa bagi 0
+	= 57/2  = 28, sisa bagi 1
+	= 28/2  = 14, sisa bagi 0
+	= 14/2  = 7, sisa bagi 1 
+	= 7/2   = 3, sisa bagi 1
+	= 3/2   = 1, sisa bagi 1
+	= 1/2   = 0, sisa bagi 1
+
+	917 = 1110010101 b
+
+4) 285  = ... H
+
+	= 285/2 = 142, sisa bagi 1
+	= 142/2 = 71, sisa bagi 0
+	= 71/2  = 35, sisa bagi 1
+	= 35/2  = 17, sisa bagi 1
+	= 17/2  = 8, sisa bagi 1
+	= 8/2   = 4, sisa bagi 0
+	= 4/2   = 2, sisa bagi 0
+	= 2/2   = 1, sisa bagi 0
+	= 1/2   = 0, sisa bagi 1
+
+	285 = 100011101 b
+
+5) 322  = ... H
+
+	= 322/2 = 161, sisa bagi 0
+	= 161/2 = 80, sisa bagi 1
+	= 80/2  = 40, sisa bagi 0
+	= 40/2  = 20, sisa bagi 0
+	= 20/2  = 10, sisa bagi 0
+	= 10/2  = 5, sisa bagi 0
+	= 5/2   = 2, sisa bagi 1
+	= 2/2   = 1, sisa bagi 0
+	= 1/2   = 0, sisa bagi 1
+
+	322 = 101000010 b
+
+6) 888  = ... H
+
+	= 888/2 = 444, sisa bagi 0
+	= 444/2 = 222, sisa bagi 0
+	= 222/2 = 111, sisa bagi 0
+	= 111/2 = 55, sisa bagi 1
+	= 55/2  = 27, sisa bagi 1
+	= 27/2  = 13, sisa bagi 1
+	= 13/2  = 6, sisa bagi 1
+	= 6/2   = 3, sisa bagi 0
+	= 3/2   = 2, sisa bagi 1
+	= 2/2   = 1, sisa bagi 1
+	= 1/2   = 0, sisa bagi 1
+
+	888 = 1101111000 b
+
+7) 727  = ... H
+
+	= 727/2 = 363, sisa bagi 1
+	= 363/2 = 181, sisa bagi 1
+	= 181/2 = 90, sisa bagi 1
+	= 90/2  = 45, sisa bagi 0
+	= 45/2  = 22, sisa bagi 1
+	= 22/2  = 11, sisa bagi 0
+	= 11/2  = 5, sisa bagi 1
+	= 5/2   = 2, sisa bagi 1
+	= 2/2   = 1, sisa bagi 0
+	= 1/2   = 0, sisa bagi 1
+
+	727 = 1011010111 b
+
+8) 584  = ... H
+
+	= 584/2 = 292, sisa bagi 0
+	= 292/2  = 146, sisa bagi 0
+	= 146/2   = 73, sisa bagi 0
+	= 73/2   = 36, sisa bagi 1
+	= 36/2   = 18, sisa bagi 0
+	= 18/2   = 9, sisa bagi 0
+	= 9/2   = 4, sisa bagi 1
+	= 4/2   = 2, sisa bagi 0
+	= 2/2   = 1, sisa bagi 0
+	= 1/2   = 0, sisa bagi 1
+
+	584 = 1001001000 b
